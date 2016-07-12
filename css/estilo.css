@@ -1,0 +1,130 @@
+/************************************************************/
+header{
+  background: #2c3e50;
+  color: #fff;
+}
+
+
+.main{
+  background: #f2f2f2;
+}
+
+.color1{
+  background: #34495e;
+  color: #fff;
+}
+
+aside{
+  background: #c0392b;
+  color: #fff;
+}
+
+.MiBoton {
+  display:block;
+  text-transform: capitalize;
+  border:hidden;
+  width:110px;
+  background:#666AB8; 
+  margin:8px 2px;
+  padding:9px 14px; 
+  text-align:center;
+  text-decoration:none;
+  color:#fff;
+  cursor:pointer;
+  -moz-border-radius:7px;
+  -webkit-border-radius:7px;
+  border-radius:7px;
+  transition:background .3s;
+  -webkit-transition:background .3s;
+}
+
+.MiBoton2{
+  font-size: 13px;
+  display:block;
+  text-transform: capitalize;
+  border:hidden;
+  width:145px;
+  background:#65b8b8;
+   margin:8px 2px;
+  padding:10px 15px; 
+  text-align:center;
+  text-decoration:none;
+  color:#fff;
+  cursor:pointer;
+  -moz-border-radius:7px;
+  -webkit-border-radius:7px;
+  border-radius:7px;
+  transition:background .3s;
+  -webkit-transition:background .3s;
+}
+/************************** TABLAS *********************************
+#tablaGrilla{
+  background-color: #faf3e5;
+  text-align: center;
+  border-radius: 10px;
+}
+
+#cartelGrilla{
+
+  text-align: center;
+  background-color: #faf3e5;
+  border-radius: 10px;
+}*/
+/********************** LOGIN **************************************/
+.login{
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+  
+}
+#avatar{
+  width: 96px;
+  height: 96px;
+  margin: 0px auto 10px;
+  display: block;
+  border-radius: 50%;
+}
+form{
+  width: 450;
+  margin: auto;
+  background: rgba(0,0,0,0.4);
+  padding: 10px 20px;
+  
+  margin-top: 20px;
+  border-radius: 7px;
+}
+
+/************************************************************/
+
+
+/**************contenido página************************/
+.form-ingreso {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+
+
+.cartelRestriccion{
+  background-color: #304d89;
+  color: white;
+  padding: 8px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 15px;
+   margin-top: 20px;
+}
+
+.fotoGrilla {
+  width: 50px;
+  height: 50px;
+}
+
+.fotoPerfil{
+  margin-left: 5%;
+  height: 100px;
+  width: 90px;
+  border-radius: 5%;
+
+}
